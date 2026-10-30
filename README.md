@@ -1,5 +1,9 @@
 # Linear Algebra Done Right (Sheldon Axler)
 
+> **About this fork.** The original solutions, and the notes below on the book and its problems, are by
+> [Jonathan Ubnoske](https://github.com/jubnoske08/linear_algebra). This fork is where I add updated and corrected
+> solutions; my changes are the commits by Ziyi Zhou. — Ziyi (Ellen) Zhou
+
 > *"There is hardly any theory which is more elementary [than linear algebra], in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices."* -Jean Dieudonné
 
 ## About
